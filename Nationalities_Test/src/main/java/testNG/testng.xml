@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Rise App-Nationality Test Report" verbose="1">
+    <test name="Rise App-Nationality Test">
+        <classes>
+            <class name="testRunner.RunnerClass"/>
+        </classes>
+    </test>
+</suite>
